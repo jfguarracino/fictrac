@@ -1,0 +1,38 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake
+C:/data/git/fictrac/CMakeFiles/3.23.1/CMakeCCompiler.cmake
+C:/data/git/fictrac/CMakeFiles/3.23.1/CMakeCXXCompiler.cmake
+C:/data/git/fictrac/CMakeFiles/3.23.1/CMakeRCCompiler.cmake
+C:/data/git/fictrac/CMakeFiles/3.23.1/CMakeSystem.cmake
+C:/data/git/fictrac/CMakeLists.txt
+C:/data/git/fictrac/include/fictrac_version.h.in
+C:/data/git/vcpkg/installed/x64-windows/share/nlopt/NLoptConfig.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/nlopt/NLoptConfigVersion.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/nlopt/NLoptLibraryDepends-debug.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/nlopt/NLoptLibraryDepends-release.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/nlopt/NLoptLibraryDepends.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/opencv/OpenCVConfig-version.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/opencv/OpenCVConfig.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/opencv/OpenCVModules-debug.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/opencv/OpenCVModules-release.cmake
+C:/data/git/vcpkg/installed/x64-windows/share/opencv/OpenCVModules.cmake
+C:/data/git/vcpkg/scripts/buildsystems/vcpkg.cmake

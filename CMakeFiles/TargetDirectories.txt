@@ -1,0 +1,5 @@
+C:/data/git/fictrac/CMakeFiles/fictrac_core.dir
+C:/data/git/fictrac/CMakeFiles/configGui.dir
+C:/data/git/fictrac/CMakeFiles/fictrac.dir
+C:/data/git/fictrac/CMakeFiles/ALL_BUILD.dir
+C:/data/git/fictrac/CMakeFiles/ZERO_CHECK.dir
